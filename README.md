@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico Castillo
 - 👀 I’m interested in video games, code, and SI-FI
-- 🌱 I’m currently learning python, git & github
+- 🌱 I’m currently learning Python & Testing;
 - 💞️ I’m looking to collaborate on any software company
 - 📫 How to reach me fcrangel98@gmail.com
 
